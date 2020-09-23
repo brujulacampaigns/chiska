@@ -1,2 +1,2 @@
-# chiska
+# houseblend
 Landing Page
