@@ -582,6 +582,12 @@ ul.share-buttons .sr-only{
 
 }
 
+.amazonwrapper{
+  text-align: center;
+  margin-top: -5rem;
+  margin-bottom: 3rem;
+}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -2016,6 +2022,11 @@ ul.share-buttons .sr-only{
   .compartir{
     margin-top: .5rem;
     text-align: center;
+  }
+  .amazonwrapper{
+    text-align: center;
+    margin-top:-2rem;
+    margin-bottom: 3rem;
   }
 }
 @media (max-width: 991.98px) {
